@@ -302,25 +302,25 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/140px-Logo_Imagen_Televisi%C3%B3n_2016.png", IMAGEN TV SD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2298&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo=,HBO
+#EXTINF:-1 tvg-logo=, HBO
 https://m3u8ssl.globaltvplus.club:2083/oeYAWBxixe/V6ctvvKhQW/112
 
-#EXTINF:-1 tvg-logo=,HBO 2
+#EXTINF:-1 tvg-logo=, HBO 2
 https://m3u8ssl.globaltvplus.club:2083/oeYAWBxixe/V6ctvvKhQW/113
 
-#EXTINF:-1 tvg-logo=,HBO Family
+#EXTINF:-1 tvg-logo=, HBO Family
 https://m3u8ssl.globaltvplus.club:2083/oeYAWBxixe/V6ctvvKhQW/114
 
-#EXTINF:-1 tvg-logo=,HBO Plus
+#EXTINF:-1 tvg-logo=, HBO Plus
 https://m3u8ssl.globaltvplus.club:2083/oeYAWBxixe/V6ctvvKhQW/115
 
 #EXTINF:-1 tvg-id=, IZZI AFIZZIONADOS SD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
 
-#EXTINF:-1 tvg-logo=,SKY SPORTS SD
+#EXTINF:-1 tvg-logo=, SKY SPORTS SD
 http://www.globaltvplusiptv.xyz/streaming/skartplay.php?1212
 
-#EXTINF:-1 tvg-logo=,SKY SPORTS HD
+#EXTINF:-1 tvg-logo=, SKY SPORTS HD
 http://www.globaltvplusiptv.xyz/streaming/skartplay.php?1213
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas.png", LAS ESTRELLAS HD

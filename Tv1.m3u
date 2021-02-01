@@ -71,9 +71,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png", AZTECA UNO SD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=27&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, BEIN SPORTS Ñ HD
-http://gangafree.com:25461/40222702/21991845/7840
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png", BITME HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2591&format=HLS&f=.m3u8
 
@@ -110,8 +107,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica.png", CINEMAX SD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=158&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo=,Claro Sports SD
-https://m3u8ssl.globaltvplus.club:2083/oeYAWBxixe/V6ctvvKhQW/155
+#EXTINF:-1 tvg-logo=, CLARO SPORTS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2564&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-logo=, CLARO SPORTS SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2564&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=, COMEDY CENTRAL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=340&format=HLS&f=.m3u8
@@ -166,9 +166,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia.png", DISTRITO COMEDIA SD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=78&format=HLSAD&f=.m3u8
-
-#EXTINF:-1 tvg-logo=, DIRECTV SPORTS HD
-http://145.239.2.125:32325/live/4d2fe29f5a35409f987a0985c724ae45/b72269fccc1f4f829191fcabf0a5794e/123.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_.png", E! HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=55&format=HLS&f=.m3u8
@@ -248,6 +245,18 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_series.png", FOX PREMIUM SERIES SD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=139&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 tvg-logo=, FOX PREMIUM CINEMA HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1729&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-logo=, FOX PREMIUM CINEMA SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1729&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo=, FOX PREMIUM CLASSICS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1732&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-logo=, FOX PREMIUM CLASSICS SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1732&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png", FOX SPORTS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=170&format=HLS&f=.m3u8
 
@@ -302,26 +311,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/140px-Logo_Imagen_Televisi%C3%B3n_2016.png", IMAGEN TV SD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2298&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo=, HBO
-https://m3u8ssl.globaltvplus.club:2083/oeYAWBxixe/V6ctvvKhQW/112
-
-#EXTINF:-1 tvg-logo=, HBO 2
-https://m3u8ssl.globaltvplus.club:2083/oeYAWBxixe/V6ctvvKhQW/113
-
-#EXTINF:-1 tvg-logo=, HBO Family
-https://m3u8ssl.globaltvplus.club:2083/oeYAWBxixe/V6ctvvKhQW/114
-
-#EXTINF:-1 tvg-logo=, HBO Plus
-https://m3u8ssl.globaltvplus.club:2083/oeYAWBxixe/V6ctvvKhQW/115
-
 #EXTINF:-1 tvg-id=, IZZI AFIZZIONADOS SD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
-
-#EXTINF:-1 tvg-logo=, SKY SPORTS SD
-http://www.globaltvplusiptv.xyz/streaming/skartplay.php?1212
-
-#EXTINF:-1 tvg-logo=, SKY SPORTS HD
-http://www.globaltvplusiptv.xyz/streaming/skartplay.php?1213
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas.png", LAS ESTRELLAS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2328&format=HLS&f=.m3u8
@@ -347,6 +338,12 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon.png", NICK SD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=331&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon.png", NICK 2 HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2147&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon.png", NICK 2 SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2147&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr.png", NICK JR HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=117&format=HLS&f=.m3u8
 
@@ -364,6 +361,12 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel.png", PARAMAUNT SD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1726&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo=, SKY SPORTS HD
+http://www.globaltvplusiptv.xyz/streaming/skartplay.php?1213
+
+#EXTINF:-1 tvg-logo=, SKY SPORTS SD
+http://www.globaltvplusiptv.xyz/streaming/skartplay.php?1212
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel.png", SONY HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=48&format=HLS&f=.m3u8
@@ -388,6 +391,12 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/syfy.png", SYFY SD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=59&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo=, TELEMUNDO INTERNACIONAL HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=85&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-logo=, TELEMUNDO INTERNACIONAL SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=85&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tcm.png", TCM HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=128&format=HLS&f=.m3u8
